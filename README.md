@@ -23,4 +23,7 @@ A **polyfill** is a piece of code (usually JavaScript) used to provide modern fu
 
 ---
 
+🚀 Purpose
+This project is intended for educational purposes — to help developers understand how key JavaScript methods work behind the scenes. It is not meant for production use.
+
 
